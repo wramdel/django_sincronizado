@@ -1,0 +1,1 @@
+esta carpeta es para despelgar la primera django app
